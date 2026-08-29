@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://github.com/Varshith80/reactapp-2400030631",
+  "homepage": "https://varshith80.github.io/reactapp-2400030631",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
